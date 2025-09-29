@@ -31,3 +31,5 @@ btn.addEventListener('click', (e)=>{
         },400)
 
 }});
+
+console.log('Este es un mensaje nuevo');
